@@ -101,12 +101,13 @@
     height: auto;
     margin: 5vw auto;
     color: white;
+    text-align: justify;
   }
 
   .landing_title,
   .app_title {
     font-size: 6vw;
-    text-align: justify;
+    text-align: center;
     color: black;
   }
 
