@@ -233,6 +233,10 @@
     align-content: center;
   }
 
+  .direitos {
+    text-decoration: none;
+  }
+
   /* Widget WhatsApp */
   .bt-whatsApp {
     right: 3.5vw;
@@ -576,6 +580,11 @@
     text-align: center;
     align-content: center;
   }
+
+  .direitos {
+    text-decoration: none;
+  }
+  
   /* Widget WhatsApp */
 
   .bt-whatsApp {
